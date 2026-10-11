@@ -102,6 +102,6 @@ Os conjuntos Laranja, Arco-íris, Neon Onda e Clausing Laranja usam 8 frames a 5
 
 ## Créditos e licença
 
-As formas dos conjuntos Galaxy partem do pacote **Galaxy Cursor v1.3.0**, e o conjunto Clausing Laranja parte do padrão criado por **Henrique Clausing** e do estilo Orange Gradient dos cursores **SweezyCursors**. A recoloração, a animação, o redimensionamento, os pontos ativos, os glifos desenhados do zero e os instaladores são de Alessandro Lobo.
+As formas dos conjuntos Galaxy partem do pacote **Galaxy Cursor v1.3.0**, e o conjunto Clausing Laranja parte do padrão criado por **[Henrique Clausing](https://github.com/HClausing)** e do estilo Orange Gradient dos cursores **SweezyCursors**. A recoloração, a animação, o redimensionamento, os pontos ativos, os glifos desenhados do zero e os instaladores são de Alessandro Lobo.
 
 Confira os termos de uso dos pacotes de origem antes de redistribuir. Se algum deles restringir derivados, mantenha este repositório privado ou remova o conjunto correspondente.
