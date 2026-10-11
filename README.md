@@ -57,7 +57,7 @@ Pasta: [`Alessandro Galaxy Arco-iris/`](Alessandro%20Galaxy%20Arco-iris/) · Ins
 
 Estilo Orange Gradient: contorno escuro com preenchimento em gradiente laranja animado. Conjunto compacto com os 17 cursores do Windows.
 
-![Alessandro Clausing Laranja](docs/previews/clauding-laranja/visao-geral.gif)
+![Alessandro Clausing Laranja](docs/previews/clauding-laranja/visao-geral-v2.gif)
 
 Pasta: [`Alessandro Clausing Laranja/`](Alessandro%20Clausing%20Laranja/) · Instalador: `Instalar Alessandro Clausing Laranja.bat`
 
