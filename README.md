@@ -11,6 +11,7 @@ Cursores animados para Windows (`.ani`) criados e adaptados por **Alessandro Lob
 | [Alessandro Galaxy Neon Onda](#alessandro-galaxy-neon-onda) | Mesmas cores neon, com uma onda de cor que desce de cima para baixo passando por todo o cursor | 29 |
 | [Alessandro Galaxy Laranja](#alessandro-galaxy-laranja) | Brilho laranja e amarelo animado no mesmo padrão de onda | 29 |
 | [Alessandro Galaxy Arco-iris](#alessandro-galaxy-arco-iris) | Espectro arco-íris completo deslizando pelo cursor | 29 |
+| [Alessandro Galaxy Arco-iris Rapido](#alessandro-galaxy-arco-iris-rapido) | Cores do arco-íris sobre a animação do Neon Rapido, com o ciclo de 0,67 s | 29 |
 | [Alessandro Clausing Laranja](#alessandro-clausing-laranja) | Estilo Orange Gradient: contorno escuro com preenchimento em gradiente laranja animado | 17 |
 
 ## Alessandro Galaxy Neon
@@ -52,6 +53,14 @@ Espectro arco-íris completo deslizando pelo cursor. 8 frames, ciclo de 0,67 s.
 ![Alessandro Galaxy Arco-iris](docs/previews/galaxy-arco-iris/visao-geral.gif)
 
 Pasta: [`Alessandro Galaxy Arco-iris/`](Alessandro%20Galaxy%20Arco-iris/) · Instalador: `Instalar Alessandro Galaxy Arco-iris.bat`
+
+## Alessandro Galaxy Arco-iris Rapido
+
+Cores do arco-íris (vermelho ao magenta) sobre a animação do Neon Rapido, em que o gradiente corre pelo contorno do cursor. 20 frames, ciclo de 0,67 s.
+
+![Alessandro Galaxy Arco-iris Rapido](docs/previews/galaxy-arco-iris-rapido/visao-geral.gif)
+
+Pasta: [`Alessandro Galaxy Arco-iris Rapido/`](Alessandro%20Galaxy%20Arco-iris%20Rapido/) · Instalador: `Instalar Alessandro Galaxy Arco-iris Rapido.bat`
 
 ## Alessandro Clausing Laranja
 
@@ -102,6 +111,6 @@ Os conjuntos Laranja, Arco-íris, Neon Onda e Clausing Laranja usam 8 frames a 5
 
 ## Créditos e licença
 
-As formas dos conjuntos Galaxy partem do pacote **Galaxy Cursor v1.3.0**, e o conjunto Clausing Laranja parte do padrão criado por **Henrique Clausing** e do estilo Orange Gradient dos cursores **SweezyCursors**. A recoloração, a animação, o redimensionamento, os pontos ativos, os glifos desenhados do zero e os instaladores são de Alessandro Lobo.
+As formas dos conjuntos Galaxy partem do pacote **Galaxy Cursor v1.3.0**, e o conjunto Clausing Laranja parte do padrão criado por **[Henrique Clausing](https://github.com/HClausing)** e do estilo Orange Gradient dos cursores **SweezyCursors**. A recoloração, a animação, o redimensionamento, os pontos ativos, os glifos desenhados do zero e os instaladores são de Alessandro Lobo.
 
 Confira os termos de uso dos pacotes de origem antes de redistribuir. Se algum deles restringir derivados, mantenha este repositório privado ou remova o conjunto correspondente.
