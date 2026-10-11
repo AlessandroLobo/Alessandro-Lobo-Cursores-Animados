@@ -57,6 +57,8 @@ Pasta: [`Alessandro Galaxy Arco-iris/`](Alessandro%20Galaxy%20Arco-iris/) · Ins
 
 Estilo Orange Gradient: contorno escuro com preenchimento em gradiente laranja animado. Conjunto compacto com os 17 cursores do Windows.
 
+> **Agradecimento:** ao **Henrique Clausing**, que teve a ideia inicial e criou o padrão que serviu de base para este conjunto, de forma profissional. Sem o trabalho dele este estilo não existiria.
+
 ![Alessandro Clausing Laranja](docs/previews/clauding-laranja/visao-geral-v2.gif)
 
 Pasta: [`Alessandro Clausing Laranja/`](Alessandro%20Clausing%20Laranja/) · Instalador: `Instalar Alessandro Clausing Laranja.bat`
@@ -100,6 +102,6 @@ Os conjuntos Laranja, Arco-íris, Neon Onda e Clausing Laranja usam 8 frames a 5
 
 ## Créditos e licença
 
-As formas dos conjuntos Galaxy partem do pacote **Galaxy Cursor v1.3.0**, e o conjunto Clausing Laranja parte do estilo Orange Gradient dos cursores **SweezyCursors**. A recoloração, a animação, o redimensionamento, os pontos ativos, os glifos desenhados do zero e os instaladores são de Alessandro Lobo.
+As formas dos conjuntos Galaxy partem do pacote **Galaxy Cursor v1.3.0**, e o conjunto Clausing Laranja parte do padrão criado por **Henrique Clausing** e do estilo Orange Gradient dos cursores **SweezyCursors**. A recoloração, a animação, o redimensionamento, os pontos ativos, os glifos desenhados do zero e os instaladores são de Alessandro Lobo.
 
 Confira os termos de uso dos pacotes de origem antes de redistribuir. Se algum deles restringir derivados, mantenha este repositório privado ou remova o conjunto correspondente.
