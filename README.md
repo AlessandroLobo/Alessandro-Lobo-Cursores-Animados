@@ -12,6 +12,7 @@ Cursores animados para Windows (`.ani`) criados e adaptados por **Alessandro Lob
 | [Alessandro Galaxy Laranja](#alessandro-galaxy-laranja) | Brilho laranja e amarelo animado no mesmo padrão de onda | 29 |
 | [Alessandro Galaxy Arco-iris](#alessandro-galaxy-arco-iris) | Espectro arco-íris completo deslizando pelo cursor | 29 |
 | [Alessandro Galaxy Arco-iris Rapido](#alessandro-galaxy-arco-iris-rapido) | Cores do arco-íris sobre a animação do Neon Rapido, com o ciclo de 0,67 s | 29 |
+| [Alessandro Galaxy Arco-iris Intenso](#alessandro-galaxy-arco-iris-intenso) | Mesmas cores e animação do Arco-iris Rapido, com brilho (glow) mais forte e mais largo em volta do contorno | 29 |
 | [Alessandro Clausing Laranja](#alessandro-clausing-laranja) | Estilo Orange Gradient: contorno escuro com preenchimento em gradiente laranja animado | 17 |
 
 ## Alessandro Galaxy Neon
@@ -61,6 +62,14 @@ Cores do arco-íris (vermelho ao magenta) sobre a animação do Neon Rapido, em 
 ![Alessandro Galaxy Arco-iris Rapido](docs/previews/galaxy-arco-iris-rapido/visao-geral.gif)
 
 Pasta: [`Alessandro Galaxy Arco-iris Rapido/`](Alessandro%20Galaxy%20Arco-iris%20Rapido/) · Instalador: `Instalar Alessandro Galaxy Arco-iris Rapido.bat`
+
+## Alessandro Galaxy Arco-iris Intenso
+
+Mesmas cores e animação do Arco-iris Rapido, com o brilho (glow) mais intenso e mais largo em volta do contorno, para o efeito ficar mais evidente. 20 frames, ciclo de 0,67 s.
+
+![Alessandro Galaxy Arco-iris Intenso](docs/previews/galaxy-arco-iris-intenso/visao-geral.gif)
+
+Pasta: [`Alessandro Galaxy Arco-iris Intenso/`](Alessandro%20Galaxy%20Arco-iris%20Intenso/) · Instalador: `Instalar Alessandro Galaxy Arco-iris Intenso.bat`
 
 ## Alessandro Clausing Laranja
 
