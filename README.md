@@ -15,6 +15,8 @@ Cursores animados para Windows (`.ani`) criados e adaptados por **Alessandro Lob
 | [Alessandro Galaxy Arco-iris Rapido](#alessandro-galaxy-arco-iris-rapido) | Cores do arco-íris sobre a animação do Neon Rapido, com o ciclo de 0,67 s | 29 |
 | [Alessandro Galaxy Arco-iris Intenso](#alessandro-galaxy-arco-iris-intenso) | Mesmas cores e animação do Arco-iris Rapido, com brilho (glow) mais forte e mais largo em volta do contorno | 29 |
 | [Alessandro Clausing Laranja](#alessandro-clausing-laranja) | Estilo Orange Gradient: contorno escuro com preenchimento em gradiente laranja animado | 17 |
+| [Alessandro Contorno Neon](#alessandro-contorno-neon) | Contorno em tubo neon com as cores do Galaxy sobre miolo escuro fixo; só o contorno é animado, ciclo de 0,67 s | 17 |
+| [Alessandro Contorno Arco-iris](#alessandro-contorno-arco-iris) | Contorno em tubo com o espectro arco-íris sobre miolo escuro fixo, com brilho (glow) forte, ciclo de 0,67 s | 17 |
 
 ## Alessandro Galaxy Neon
 
@@ -90,6 +92,22 @@ Estilo Orange Gradient: contorno escuro com preenchimento em gradiente laranja a
 
 Pasta: [`Alessandro Clausing Laranja/`](Alessandro%20Clausing%20Laranja/) · Instalador: `Instalar Alessandro Clausing Laranja.bat`
 
+## Alessandro Contorno Neon
+
+Contorno em tubo neon com as cores do Galaxy (ciano, azul, violeta e magenta) correndo pela silhueta, sobre um miolo escuro e fixo, com brilho suave por fora. Só o contorno é animado. 20 frames, ciclo de 0,67 s. Conjunto compacto com os 17 cursores do Windows.
+
+![Alessandro Contorno Neon](docs/previews/contorno-neon/visao-geral.gif)
+
+Pasta: [`Alessandro Contorno Neon/`](Alessandro%20Contorno%20Neon/) · Instalador: `Instalar Alessandro Contorno Neon.bat`
+
+## Alessandro Contorno Arco-iris
+
+Mesmo estilo de contorno em tubo, com o espectro arco-íris (do vermelho ao magenta) correndo pela silhueta sobre um miolo escuro e fixo, e com o brilho (glow) mais forte e mais largo em volta do contorno. 20 frames, ciclo de 0,67 s. Conjunto compacto com os 17 cursores do Windows.
+
+![Alessandro Contorno Arco-iris](docs/previews/contorno-arco-iris/visao-geral.gif)
+
+Pasta: [`Alessandro Contorno Arco-iris/`](Alessandro%20Contorno%20Arco-iris/) · Instalador: `Instalar Alessandro Contorno Arco-iris.bat`
+
 ## Como instalar
 
 1. Baixe ou clone o repositório e entre na pasta do conjunto desejado.
@@ -125,10 +143,10 @@ Arquivos extras: `alias`, `cell`, `col-resize`, `col-select`, `copy`, `grab`, `g
 
 ## Animação
 
-Os conjuntos Laranja, Arco-íris, Neon Onda e Clausing Laranja usam 8 frames a 5 jiffies (1 jiffy = 1/60 s), com a faixa de cor descendo pelo cursor na diagonal. O Neon Rápido usa 20 frames a 2 jiffies, e o Neon original mantém os 60 frames a 3 jiffies do pacote de origem.
+Os conjuntos Laranja, Arco-íris, Neon Onda e Clausing Laranja usam 8 frames a 5 jiffies (1 jiffy = 1/60 s), com a faixa de cor descendo pelo cursor na diagonal. Os conjuntos Rápido, Intenso e Contorno usam 20 frames a 2 jiffies, e o Neon do Galaxy mantém os 60 frames a 3 jiffies.
 
 ## Créditos e licença
 
-As formas dos conjuntos Galaxy partem do pacote **Galaxy Cursor v1.3.0**, e o conjunto Clausing Laranja parte do padrão criado por **[Henrique Clausing](https://github.com/HClausing)** e do estilo Orange Gradient dos cursores **SweezyCursors**. A recoloração, a animação, o redimensionamento, os pontos ativos, os glifos desenhados do zero e os instaladores são de Alessandro Lobo.
+As formas dos conjuntos Galaxy partem do pacote **Galaxy Cursor v1.3.0**, e os conjuntos Clausing Laranja e Contorno partem do padrão criado por **[Henrique Clausing](https://github.com/HClausing)** e do estilo Orange Gradient dos cursores **SweezyCursors**. A recoloração, a animação, o redimensionamento, os pontos ativos, os glifos desenhados do zero e os instaladores são de Alessandro Lobo.
 
 Confira os termos de uso dos pacotes de origem antes de redistribuir. Se algum deles restringir derivados, mantenha este repositório privado ou remova o conjunto correspondente.
