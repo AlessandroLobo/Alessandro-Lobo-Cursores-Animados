@@ -8,6 +8,7 @@ Cursores animados para Windows (`.ani`) criados e adaptados por **Alessandro Lob
 |---|---|---|
 | [Alessandro Galaxy Neon](#alessandro-galaxy-neon) | Cores originais do Galaxy (ciano, azul, violeta e magenta) com a animação lenta do pacote original, ciclo de cerca de 3 s | 29 |
 | [Alessandro Galaxy Neon Rapido](#alessandro-galaxy-neon-rapido) | Mesmo visual neon do conjunto anterior, mas com o ciclo acelerado para 0,67 s | 29 |
+| [Alessandro Galaxy Neon Intenso](#alessandro-galaxy-neon-intenso) | Mesmo visual e animação do Neon Rapido, com brilho (glow) mais forte e mais largo em volta do contorno | 29 |
 | [Alessandro Galaxy Neon Onda](#alessandro-galaxy-neon-onda) | Mesmas cores neon, com uma onda de cor que desce de cima para baixo passando por todo o cursor | 29 |
 | [Alessandro Galaxy Laranja](#alessandro-galaxy-laranja) | Brilho laranja e amarelo animado no mesmo padrão de onda | 29 |
 | [Alessandro Galaxy Arco-iris](#alessandro-galaxy-arco-iris) | Espectro arco-íris completo deslizando pelo cursor | 29 |
@@ -30,6 +31,14 @@ Mesmo visual neon do conjunto anterior, mas com o ciclo acelerado para 0,67 s.
 ![Alessandro Galaxy Neon Rapido](docs/previews/galaxy-neon-rapido/visao-geral.gif)
 
 Pasta: [`Alessandro Galaxy Neon Rapido/`](Alessandro%20Galaxy%20Neon%20Rapido/) · Instalador: `Instalar Alessandro Galaxy Neon Rapido.bat`
+
+## Alessandro Galaxy Neon Intenso
+
+Mesmo visual e animação do Neon Rapido, com o brilho (glow) mais intenso e mais largo em volta do contorno, para o efeito ficar mais evidente. 20 frames, ciclo de 0,67 s.
+
+![Alessandro Galaxy Neon Intenso](docs/previews/galaxy-neon-intenso/visao-geral.gif)
+
+Pasta: [`Alessandro Galaxy Neon Intenso/`](Alessandro%20Galaxy%20Neon%20Intenso/) · Instalador: `Instalar Alessandro Galaxy Neon Intenso.bat`
 
 ## Alessandro Galaxy Neon Onda
 
